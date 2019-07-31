@@ -4,7 +4,7 @@ author: "Carlos Barron"
 date: "31/7/2019"
 output: html_document
 ---
-
+este es el ejemplo
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
